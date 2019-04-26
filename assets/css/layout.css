@@ -1529,6 +1529,12 @@ section, article {
     margin-bottom: 0;
   }
 
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 /* Image */
 
 .image {
@@ -2021,7 +2027,7 @@ button,
 
     #main > section.one {
       background-color: #81918E;
-      background-image: url("../../images/background.jpeg");
+      background-image: url("../../images/banner.png");
     }
 
     #main > section.two {

@@ -26,6 +26,15 @@ Finish time: 12:50
 Actual time needed to complete: 2:30
 
 
+Number and name of feature: Feature #3: CDN, Images, Tablet Sizing
+
+Estimate of time needed to complete: 60 Minutes
+
+Start time: 10:00
+
+Finish time: 12:00
+
+Actual time needed to complete: 2:00
 
 
 
